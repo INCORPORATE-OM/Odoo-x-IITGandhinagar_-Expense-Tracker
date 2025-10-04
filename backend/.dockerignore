@@ -1,0 +1,17 @@
+__pycache__
+.pytest_cache
+.venv
+env
+venv
+*.pyc
+*.pyo
+*.pyd
+dist
+build
+uploads
+*.sqlite3
+*.db
+*.egg-info
+.git
+node_modules
+frontend/dist
